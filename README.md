@@ -10,4 +10,4 @@ The notebooks can be opened in Colab which provides a low-effort way (no install
 * Further pre-training of BERT on FiQA: [[Colab]](https://colab.research.google.com/github/yuanbit/FinBERT-QA-notebooks/blob/master/Pretrain_LM.ipynb) [[Github]](https://github.com/yuanbit/FinBERT-QA-notebooks/blob/master/Pretrain_LM.ipynb)
 * QA-LSTM: [[Colab]](https://colab.research.google.com/github/yuanbit/FinBERT-QA-notebooks/blob/master/QA_LSTM.ipynb) [[Github]](https://github.com/yuanbit/FinBERT-QA-notebooks/blob/master/QA_LSTM.ipynb)
 
-Click "Open in Playground" and to replicate the results!
+Click "Open in Playground" to replicate the results!
